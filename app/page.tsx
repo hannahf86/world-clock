@@ -2,6 +2,7 @@ import Image from "next/image"
 
 // BACKGROUND IMAGES
 import daytimeMobile from '/assets/mobile/bg-image-daytime.jpg'
+import nighttimeMobile from '/assets/mobile/bg-image-nighttime.jpg'
 
 // COMPONENTS
 import Quote from "./Components/quote/page"

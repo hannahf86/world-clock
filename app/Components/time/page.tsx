@@ -1,6 +1,12 @@
 import React from 'react'
 import { HiSun } from 'react-icons/hi'
 
+// TASK ONE: Get the local PC time
+// TASK TWO: Change the image and phrase based on sed time
+// TASK THREE: Use the API data to get the users' location
+
+
+
 const Time: React.FC = () => {
 
   const styles = {

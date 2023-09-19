@@ -3,6 +3,10 @@
 import React from 'react'
 import { HiChevronDown, HiChevronUp } from 'react-icons/hi'
 
+// TASK ONE: Create animation for time and location panel
+// TASK TWO: Use state (see if there's a better option) to change the button and appearance of the panel
+
+
 const Button: React.FC = () => {
 
   const styles = {
@@ -18,7 +22,7 @@ const Button: React.FC = () => {
         <p className={styles.text}>MORE</p>
         <div className={styles.iconContainer}>
           <div className={styles.icon}>
-            <HiChevronDown size={25}/>
+            <HiChevronDown size={25} />
           </div>
         </div>
       </button>
